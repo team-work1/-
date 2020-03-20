@@ -116,6 +116,7 @@ int main() {
 	printf("今天您的体力处于周期的第%d天\n",physical_days);
 	printf("今天您的情绪处于周期的第%d天\n",emotion_days);
 	printf("今天您的智力处于周期的第%d天\n",intelligence_days);
-    system("pause");
+    system("pause"）
+    return0;
 	
 }
